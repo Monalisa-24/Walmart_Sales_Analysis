@@ -43,3 +43,4 @@ Weekly Trends: Saturdays record the highest sales, while Mondays are slowest.
 ![image](https://github.com/user-attachments/assets/099c3a62-cdee-4f68-90d6-92ebe504f7d9)
 ![image](https://github.com/user-attachments/assets/83416e03-5c2d-4726-88ce-b81b70ac3080)
 ![image](https://github.com/user-attachments/assets/21cd642c-1cff-4367-a67c-8fc7dbab1bc1)
+![image](https://github.com/user-attachments/assets/5835729e-6c4b-4f3e-b5bf-1139e9b1f221)
