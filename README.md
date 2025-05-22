@@ -16,12 +16,7 @@ Visualize sales trends and patterns
 Deliver actionable business insights
 
 # 🛠️ Tools & Technologies
-Tool	Purpose
-Python	Core programming language
-Pandas	Data wrangling and transformation
-Matplotlib & Seaborn	Data visualization
-MySQL	Structured data storage & querying
-Jupyter Notebook	Interactive analysis
+Python for Core programming language, Pandasfor Data wrangling and transformation, Matplotlib & Seaborn for	Data visualization, MySQL	for Structured data storage & querying and Jupyter Notebook	for Interactive analysis.
 
 # 📊 Key Insights
 Highest Sales Branch: Branch C consistently outperforms others in total revenue.
