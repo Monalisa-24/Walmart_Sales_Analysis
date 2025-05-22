@@ -1,5 +1,42 @@
 # Walmart_Sales_Analysis
 "Walmart Sales Analysis: Built a complete data analytics pipeline using Python, pandas, and MySQL. Cleaned and visualized transactional data to uncover sales trends, customer behavior, and category performance. Delivered insights through automated reports and interactive dashboards."
+
+# 📌 Project Overview
+Goal:
+Analyze Walmart’s transactional sales data to uncover trends in revenue, customer behavior, product performance, and payment methods.
+
+Key Objectives:
+
+Clean and prepare raw data for analysis
+
+Perform exploratory data analysis (EDA)
+
+Visualize sales trends and patterns
+
+Deliver actionable business insights
+
+# 🛠️ Tools & Technologies
+Tool	Purpose
+Python	Core programming language
+Pandas	Data wrangling and transformation
+Matplotlib & Seaborn	Data visualization
+MySQL	Structured data storage & querying
+Jupyter Notebook	Interactive analysis
+
+# 📊 Key Insights
+Highest Sales Branch: Branch C consistently outperforms others in total revenue.
+
+Customer Peak Time: Sales peak between 1 PM and 3 PM, indicating lunch hour rush.
+
+Popular Payment Method: Ewallet is the most preferred mode of payment.
+
+Category Insights: The Food and Beverages category has the highest transaction volume.
+
+City Profitability: Yangon generates the highest average profit margins.
+
+Weekly Trends: Saturdays record the highest sales, while Mondays are slowest.
+
+# 📈 Sample Visuals
 ![image](https://github.com/user-attachments/assets/21b7076d-a6da-4878-978f-ee1ab0975d7c)
 ![image](https://github.com/user-attachments/assets/54cb9033-3bba-47c7-9ee6-e77bdf902713)
 ![image](https://github.com/user-attachments/assets/e7be0faa-933d-4897-8fcc-2537d55841ce)
